@@ -1,0 +1,15 @@
+obesita
+contrazioni_addominali
+bruciore_stomaco
+pressione_alta
+vista_sfocata
+nausea
+mal_testa
+infezioni
+perdita_sangue
+perdita_liquidi
+vomito
+perdita_peso_appetito
+sensazione_svenimento
+respiro_corto
+stanchezza
